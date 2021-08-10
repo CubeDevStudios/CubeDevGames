@@ -1,4 +1,4 @@
-# CubeDevGames
+# CubeDevGames-FollowPage
 
 ## This is my follow page (first website developed)
 
