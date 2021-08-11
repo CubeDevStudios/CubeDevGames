@@ -90,7 +90,7 @@ i{
 .footer-top {
     background: rgb(32, 32, 32);
     width: 100%;
-    height: 250px;
+    height: 700px;
     position: absolute;
     bottom: 600px;
     left: 0;
@@ -115,6 +115,7 @@ i{
     pointer-events: none;
     display: flex;
     width: 10%;
+    margin-top: 600px;
     margin-left: auto;
     margin-right: auto;
 }
